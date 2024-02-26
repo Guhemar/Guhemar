@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align='center'>
+  Olá! Me chamo Gustavo Martins
+  <br/>
+  Seja bem-vindo(a)
+</h1>
 
-<!--
-**Guhemar/Guhemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estudando para atuar com dados (Python, R, SQL e Machine Learning).
 
-Here are some ideas to get you started:
+<div>  
+<a href="https://github.com/Guhemar">
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhemar&layout=compact&theme=tokyonight&locale=pt-br&count_private=true" />
+</a>&nbsp;<a href="https://github.com/Guhemar"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guhemar&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mais sobre mim:
+<div> 
+  <a href="https://www.linkedin.com/in/gustavomartins0923/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gustavohemar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
