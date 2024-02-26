@@ -8,8 +8,8 @@
 
 <div>  
 <a href="https://github.com/Guhemar">
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhemar&layout=compact&theme=tokyonight&locale=pt-br&count_private=true" />
-</a>&nbsp;<a href="https://github.com/Guhemar"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guhemar&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"/></a>
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhemar&layout=compact&theme=holi&locale=pt-br&count_private=true" />
+</a>&nbsp;<a href="https://github.com/Guhemar"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guhemar&show_icons=true&theme=holi&locale=pt-br&count_private=true&include_all_commits=true"/></a>
 </div>
 
 ## Mais sobre mim:
