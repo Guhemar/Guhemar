@@ -4,7 +4,7 @@
   Seja bem-vindo(a)
 </h1>
 
-- 🌱 Atualmente estudando para atuar com dados (Python, R, SQL e Machine Learning).
+- 🌱 Atualmente estudando para atuar com programação (HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, PYTHON, SQL). Estou em constante evolução e logo mais evoluindo para mais linguagens.
 
 <div>  
 <a href="https://github.com/Guhemar">
